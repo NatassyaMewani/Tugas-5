@@ -40,6 +40,28 @@
 
    <img width="1280" height="720" alt="no 9" src="https://github.com/user-attachments/assets/0c1ba3fa-d4ec-4456-acc2-a5b5b9af3940" /> <br>
 
+Nilai default file
+
+Perhitungannya :
+
+666
+-027
+----
+641
+
+Jadi nilai default file = 641 atau :
+
+rw-r----x
+
+Untuk direktori :
+
+777
+-027
+----
+750
+
+Jadi nilai default direktori = 750. <br>
+
 10. Buatlah link dari file dataku dan file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi?
 
     <img width="1280" height="720" alt="no 10" src="https://github.com/user-attachments/assets/4f6851bb-ce9c-486b-aa6e-1822e0ea30ec" />
